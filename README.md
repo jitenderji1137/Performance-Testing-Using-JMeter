@@ -14,5 +14,5 @@ As This Project was related to Performance testing, We need to test JPetStore De
 ### [1. Report with JMeter][Report with JMeter]
 [Report with JMeter]:/
 <div align="center">
-<img src="https://github.com/jitenderji1137/Performance-Testing-Using-JMeter/assets/113350806/2f322dd2-4413-4f97-bb35-2f7210b559c3" alt="logo" width="100%" height="auto" />
+<img src="https://github.com/jitenderji1137/Performance-Testing-Using-JMeter/assets/113350806/176e6ce8-c50f-41e3-944f-6e061fe78594" alt="logo" width="100%" height="auto" />
 </div>
