@@ -20,5 +20,5 @@ As This Project was related to Performance testing, We need to test JPetStore De
 ### [2. Report of Github API][Report with JMeter]
 [Report with JMeter]:/
 <div align="center">
-<img src="https://github.com/jitenderji1137/Performance-Testing-Using-JMeter/assets/113350806/69e6ce37-6992-4498-a648-64fa02f93002" alt="logo" width="100%" height="auto" />
+<img src="https://user-images.githubusercontent.com/113350806/243560914-176e6ce8-c50f-41e3-944f-6e061fe78594.png" alt="logo" width="100%" height="auto" />
 </div>
